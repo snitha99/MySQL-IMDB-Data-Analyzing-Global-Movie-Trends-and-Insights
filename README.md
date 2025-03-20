@@ -1,4 +1,4 @@
-# SQL EDA for IMDB Data Analyzing Global Movie Trends and Insights
+# MySQL _ IMDB Data Analyzing Global Movie Trends and Insights
 
 This Project is a comprehensive SQL-based data analysis initiative focused on extracting meaningful insights from movie data. Here's an overview,
 
