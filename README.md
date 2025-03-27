@@ -4,15 +4,37 @@ This project focuses on performing Ad Hoc Analysis on the IMDB movie database to
 
 # Project Objectives
 
-Identify Top Performing Movies – Analyze box office revenue and profitability.
+1.Identify Popular Genres for Global Audiences
 
-- Understand Genre Impact – Identify the most successful genres.
+- Analyze past three years’ movie data to determine which genres perform well internationally.
 
-- Director and Actor Performance – Evaluate the success rate of key directors and actors.
+2.Evaluate Director and Actor Influence on Global Success
 
-- Country-Based Revenue Insights – Analyze global success across regions.
+- Assess the impact of top directors and actors on movie success to identify potential collaborators.
 
-- Audience Rating Trends – Analyze IMDB ratings to understand audience preferences.
+3.Analyze Revenue Trends to Identify High-Growth Markets
+
+- Determine key countries contributing to box office success and explore emerging markets.
+
+4.Examine Audience Ratings and Content Preferences
+
+- Analyze audience ratings to identify content characteristics that resonate with global viewers.
+
+5.Optimize Release Strategy for Maximum Impact
+
+- Evaluate the effectiveness of OTT vs. theatrical releases to recommend the ideal distribution strategy.
+
+6.Assess the Impact of Multi-Language Releases
+
+- Analyze the effectiveness of dubbing and subtitling in enhancing international reach.
+
+7.Recommend Budget and ROI Optimization Strategies
+
+- Identify budget-to-revenue trends to maximize profitability for the upcoming project.
+
+8.Develop Data-Driven Recommendations for Global Market Success
+
+- Use analytical insights to shape marketing, distribution, and content strategies for international appeal
 
 
 
@@ -29,7 +51,7 @@ Identify Top Performing Movies – Analyze box office revenue and profitability.
 - name – Contains information about actors, directors, and other contributors.
 
 
-##Insights & Recommendations for RSVP Movies
+## Insights & Recommendations for RSVP Movies
 
 ### 1. Genre Preference for Global Audiences
 
@@ -99,7 +121,7 @@ Identify Top Performing Movies – Analyze box office revenue and profitability.
 
 ### 5. OTT vs. Theatrical Performance
 
-###Insight:
+### Insight:
 
 - OTT platforms have seen a surge in popularity post-pandemic, with a growing preference for digital content consumption globally.
 
@@ -113,9 +135,9 @@ Identify Top Performing Movies – Analyze box office revenue and profitability.
 
 - Prioritize theatrical releases for high-budget, visually immersive movies while leveraging OTT for international outreach and wider reach.
 
-###6. Profitability and ROI Trends
+### 6. Profitability and ROI Trends
 
-###Insight:
+### Insight:
 
 Movies with a balanced budget-to-revenue ratio yield higher returns on investment (ROI), indicating the importance of controlled production budgets.
 
@@ -132,7 +154,7 @@ Successful movies with moderate budgets and strong scripts often outperform big-
 
 ### 7. Multi-Language Content for Global Reach
 
-###Insight:
+### Insight:
 
 - Movies released in multiple languages tend to perform better globally, catering to diverse linguistic audiences.
 
